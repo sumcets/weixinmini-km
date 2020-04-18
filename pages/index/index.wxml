@@ -1,0 +1,5 @@
+<view class="content">
+    {{ msg }}
+</view>
+  
+  
